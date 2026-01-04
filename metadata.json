@@ -1,0 +1,5 @@
+{
+  "name": "Fala Hoje Portal Manager",
+  "description": "Uma interface administrativa para o portal Fala Hoje, permitindo gerenciar, redigir com IA e publicar matérias com estilo 'Almoço de Domingo'.",
+  "requestFramePermissions": []
+}
